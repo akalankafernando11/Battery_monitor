@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LVXIGNFF
 
 [Document6]
-DocumentPath=..\Project Outputs for ESPWROOM32\ESPWROOM32.IntLib
+DocumentPath=..\..\..\Altium\Projects\Modules - Altium library\Modules - Altium library\Modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140,24 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\Modules - Altium library\Modules - Altium library\Modules.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=..\Modules - Altium library\Modules - Altium library\Modules.SchLib
+DocumentPath=..\..\..\Altium\Projects\Modules - Altium library\Modules - Altium library\Modules.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

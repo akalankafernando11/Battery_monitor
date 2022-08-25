@@ -1,0 +1,4 @@
+Change Component Description : Designator=DS-05RP Old Description=SPST 24V 25mA Red -20?~+70? 3000 Flat dial, raised type 2.54mm 6 Plugin DIP Switches ROHS New Description=SPST 24V 25mA Red -20?~+70? 3000 Flat dial, raised type 2.54mm 6 Plugin DIP Switches ROHS
+Change Component Description : Designator=NTC1 Old Description=Thermistor NTC 10kO ±1% 2-Pin Radial Bulk New Description=Thermistor NTC 10kO ±1% 2-Pin Radial Bulk
+Change Component Description : Designator=NTC2 Old Description=Thermistor NTC 10kO ±1% 2-Pin Radial Bulk New Description=Thermistor NTC 10kO ±1% 2-Pin Radial Bulk
+Added Room: Name=Battery_Mnitor1

@@ -1,0 +1,18 @@
+Added Component: Designator=DS-05RP(DIP10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C129061"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Korean Hroparts Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "DS-05RP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Plugin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDS-05RP_1 Pin=DS-05RP-1
+Added Pin To Net: NetName=NetDS-05RP_1 Pin=DS-05RP-2
+Added Pin To Net: NetName=NetDS-05RP_3 Pin=DS-05RP-3
+Added Pin To Net: NetName=NetDS-05RP_3 Pin=DS-05RP-4
+Added Pin To Net: NetName=NetDS-05RP_5 Pin=DS-05RP-5
+Added Pin To Net: NetName=BM_ALARM Pin=DS-05RP-6
+Added Pin To Net: NetName=BM_ALARM2 Pin=DS-05RP-7
+Added Pin To Net: NetName=NTCvp Pin=DS-05RP-8
+Added Pin To Net: NetName=TSENSE1 Pin=DS-05RP-9
+Added Pin To Net: NetName=TSENSE2 Pin=DS-05RP-10
+Added Member To Class: ClassName=Battery_Mnitor1 Member=Component DS-05RP Dip Switch
+Added Room: Name=Battery_Mnitor1

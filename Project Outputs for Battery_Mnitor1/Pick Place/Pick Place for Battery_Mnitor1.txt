@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\GitHub\Prject1\Battery_monitor\Project Outputs for Battery_Mnitor1\Pick Place\Pick Place for Battery_Mnitor1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/08/22
+Time:       12:39
+Revision:   c6cae0c4266a1d6df8a63024132cf6fdefecaf56
+Variant:    No variations
+Units used: mm
+
+Designator Comment                 Layer    Footprint               Center-X(mm) Center-Y(mm) Rotation Description                                                                                                           
+DS-05RP    "Dip Switch"            TopLayer DIP10                   48.0060      105.4100     180      "SPST 24V 25mA Red -20?~+70? 3000 Flat dial, raised type 2.54mm 6 Plugin DIP Switches ROHS"                           
+U2         LC709204FXE-01TBG       TopLayer BGA12C40P4X3_191X148X51 49.0220      92.2560      90       "Battery Management FUEL GAUGE"                                                                                       
+R7         0R                      TopLayer FP-RC0402-0_4-IPC_A     50.2920      117.4750     270      "RES SMD 0 OHM JUMPER 1/16W 0402"                                                                                     
+R6         0R                      TopLayer FP-RC0402-0_4-IPC_A     52.4510      117.4750     270      "RES SMD 0 OHM JUMPER 1/16W 0402"                                                                                     
+R5         0R                      TopLayer FP-RC0402-0_4-IPC_A     51.8160      94.8690      270      "RES SMD 0 OHM JUMPER 1/16W 0402"                                                                                     
+R4         1K                      TopLayer RESC1005X40X25LL05T10   47.4980      88.1380      270      "62.5mW 50V ±100ppm/? ±5% -55?~+155? 1kO 0402 Chip Resistor - Surface Mount ROHS"                                     
+R3         10K                     TopLayer RESC1005X40X25LL05T10   51.9430      89.9220      90       "62.5mW Thick Film Resistors 50V ±100ppm/? ±1% -55?~+155? 10kO 0402 Chip Resistor - Surface Mount ROHS"               
+R2         10K                     TopLayer RESC1005X40X25LL05T10   50.4190      88.2650      90       "62.5mW Thick Film Resistors 50V ±100ppm/? ±1% -55?~+155? 10kO 0402 Chip Resistor - Surface Mount ROHS"               
+R1         10K                     TopLayer RESC1005X40X25LL05T10   49.0220      88.2650      90       "62.5mW Thick Film Resistors 50V ±100ppm/? ±1% -55?~+155? 10kO 0402 Chip Resistor - Surface Mount ROHS"               
+NTC2       NXRT15XH103FA1B030      TopLayer FP-NXR_151B030-MFG      45.5930      113.7920     180      "Thermistor NTC 10kO ±1% 2-Pin Radial Bulk"                                                                           
+NTC1       NXRT15XH103FA1B030      TopLayer FP-NXR_151B030-MFG      51.4350      113.6650     180      "Thermistor NTC 10kO ±1% 2-Pin Radial Bulk"                                                                           
+M1         ESP32-WROOM-32          TopLayer ESP32-DEVKIT-V1         68.8010      109.1730     0        "Dual core, Wi-Fi: 2.4 GHz up to 150 Mbits/s,BLE (Bluetooth Low Energy) and legacy Bluetooth, 32 bits, Up to 240 MHz" 
+LED1       Red                     TopLayer VISH-TLMX1100_V         45.3390      91.1860      180      "LED, RED, 2.1 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"                                             
+J6         5004                    TopLayer FP-5004-MFG             43.6880      87.8840      0        "PC TEST POINT MINIATURE YELLOW"                                                                                      
+J5         5004                    TopLayer FP-5004-MFG             51.9430      121.7930     0        "PC TEST POINT MINIATURE YELLOW"                                                                                      
+J4         5004                    TopLayer FP-5004-MFG             47.2440      117.6020     0        "PC TEST POINT MINIATURE YELLOW"                                                                                      
+J3         5004                    TopLayer FP-5004-MFG             48.6410      96.9010      0        "PC TEST POINT MINIATURE YELLOW"                                                                                      
+J2         5004                    TopLayer FP-5004-MFG             46.9900      122.0470     0        "PC TEST POINT MINIATURE YELLOW"                                                                                      
+J1         5004                    TopLayer FP-5004-MFG             43.8150      84.7090      0        "PC TEST POINT MINIATURE YELLOW"                                                                                      
+con1       "2pin Wire Connector_1" TopLayer HDR1X2                  50.4190      85.3440      180      "Header, 2-Pin, Right Angle"                                                                                          
+C4         1uF                     TopLayer FP-CL542-IPC_C          45.9740      95.2500      180      "Cap Ceramic 1uF 25V X5R ±10% SMD 0402 +85°C Paper T/R"                                                               
+C04        2.2uF                   TopLayer FP-CL826-IPC_C          45.9764      93.4720      180      "Cap Ceramic 2.2uF 25V X5R ±20% SMD 0402 +85°C Paper T/R"                                                             

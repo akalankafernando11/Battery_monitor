@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Battery_Mnitor1.PcbDoc]
+   Generated File[Battery_Mnitor1.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:39:19 On 25/08/2022
